@@ -3,7 +3,7 @@
  * A free open source mixin-based injection hacked client for Minecraft using Minecraft Forge.
  * https://github.com/WYSI-Foundation/LiquidBouncePlus/
  *
- * All of these code credit to liquidbounce+ btw
+ * All of these code credit to liquidbounce+ lol
  *
  */
 package net.ccbluex.liquidbounce
